@@ -77,6 +77,9 @@ The dataset contains 8 records of sales transactions with the following columns:
 
 
 ---
+✅ Conclusion
+
+This project demonstrates the complete workflow of analyzing and visualizing retail sales data in Excel. From cleaning raw data and calculating KPIs to building an interactive dashboard, it showcases how Excel can deliver actionable insights into regional performance, product profitability, and sales trends—highlighting essential data analyst skills in business analytics and storytelling.
 
 ## 📝 How to Use
 
