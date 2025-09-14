@@ -72,6 +72,7 @@ The dataset contains 8 records of sales transactions with the following columns:
 ---
 
 ## 📸 Dashboard Preview
+<img width="900" height="606" alt="image" src="https://github.com/user-attachments/assets/a799061b-a434-4004-be54-87eba7cda68a" />
 
 
 
