@@ -73,7 +73,7 @@ The dataset contains 8 records of sales transactions with the following columns:
 
 ## 📸 Dashboard Preview
 
-*(Insert a screenshot of your final dashboard here in the GitHub repository)*
+
 
 ---
 
@@ -93,10 +93,5 @@ If you like this project or want to collaborate, feel free to connect:
 - 📧 Email: praneethkumarreddy952@gmail.com  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/praneethrdy]
 
----
-
-## 📌 License
-
-This project is for educational and portfolio purposes only. Feel free to fork and build upon it.
 
 ---
