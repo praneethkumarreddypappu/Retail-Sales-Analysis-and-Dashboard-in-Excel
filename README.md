@@ -1,15 +1,15 @@
-Retail-Sales-and-Dashboard-in-Excel
+# Retail-Sales-and-Dashboard-in-Excel
 
-Project Overview
+# Project Overview
 This project demonstrates end-to-end data analysis and dashboard creation using Microsoft Excel. The goal is to analyze and visualize sales data for a fictional retail company to uncover trends, evaluate performance, and provide actionable insights.
 
-Objective
+# Objective
 •	Clean and transform raw sales data
 •	Perform basic business analytics using Excel formulas and pivot tables
 •	Build an interactive dashboard with slicers and KPIs
 •	Develop insights into sales by region, product category, and sales reps
 
-Dataset Structure
+# Dataset Structure
 The dataset contains 8 records of sales transactions with the following columns:
 
 Column Name                             Description                          
@@ -23,7 +23,7 @@ Units Sold                             Quantity sold
 Unit Price                            Price per unit                       
 Profit                           Net profit from the order          
 
-Calculated Columns:
+# Calculated Columns:
 
 New Column                        Formula                                        Purpose                                 
 Total Sales                `=Units Sold * Unit Price`                         Revenue per order                       
@@ -31,7 +31,7 @@ Month                   `=TEXT(Order Date, "mmm yyyy")`               Extracted 
 Profit Margin              `=Profit / Total Sales`                         Profitability per order                 
 
 
-Tools & Features Used
+# Tools & Features Used
 - Microsoft Excel
 - Excel Tables (`SalesTable`)
 - Pivot Tables & Pivot Charts
@@ -39,13 +39,13 @@ Tools & Features Used
 - Conditional Formatting
 - Dashboard Design
 
-Key Insights Delivered
+# Key Insights Delivered
 - **Top-Performing Regions**: Identified based on total sales.
 - **Most Profitable Products**: Tracked using profit margin.
 - **Sales Rep Performance**: Compared sales and profits by rep.
 - **Monthly Trends**: Visualized using line and column charts.
 
-Skills Demonstrated
+# Skills Demonstrated
 -  Data Cleaning & Preprocessing  
 -  Pivot Tables & Dynamic Charts  
 -  KPI Card Design & Dashboard Layout  
@@ -53,18 +53,18 @@ Skills Demonstrated
 -  Business Insight Communication
 
 
-Dashboard Preview
+# Dashboard Preview
 <img width="900" height="606" alt="image" src="https://github.com/user-attachments/assets/a799061b-a434-4004-be54-87eba7cda68a" />
 
-Conclusion
+# Conclusion
 This project demonstrates the complete workflow of analyzing and visualizing retail sales data in Excel. From cleaning raw data and calculating KPIs to building an interactive dashboard, it showcases how Excel can deliver actionable insights into regional performance, product profitability, and sales trends—highlighting essential data analyst skills in business analytics and storytelling.
 
-How to Use
+# How to Use
 1. Download or clone the repository.
 2. Open `Retail_Sales_Dashboard.xlsx` in Microsoft Excel (2021 or Office 365 recommended).
 3. Explore the `SalesData` sheet to view raw data and calculations.
 4. Go to the `Dashboard` sheet to interact with slicers and view insights.
 
-Connect
+# Connect
 - Email: praneethkumarreddy952@gmail.com  
 - LinkedIn: [https://www.linkedin.com/in/praneethrdy]
