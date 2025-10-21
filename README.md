@@ -25,10 +25,10 @@ Profit                                          -                               
 
 # Calculated Columns:
 
-New Column                        Formula                                        Purpose                                 
-Total Sales                `=Units Sold * Unit Price`                         Revenue per order                       
-Month                   `=TEXT(Order Date, "mmm yyyy")`               Extracted month for trend analysis     
-Profit Margin              `=Profit / Total Sales`                         Profitability per order                 
+New Column          -              Formula                    -                    Purpose                                 
+Total Sales         -       `=Units Sold * Unit Price`         -                Revenue per order                       
+Month               -    `=TEXT(Order Date, "mmm yyyy")`        -       Extracted month for trend analysis     
+Profit Margin       -       `=Profit / Total Sales`              -           Profitability per order                 
 
 
 # Tools & Features Used
