@@ -12,16 +12,16 @@ This project demonstrates end-to-end data analysis and dashboard creation using 
 # Dataset Structure
 The dataset contains 8 records of sales transactions with the following columns:
 
-Column Name                                                                           Description                          
-Order ID                                                                   Unique identifier for each order     
-Order Date                                                                     Date the order was placed    
-Region                                                                                Sales region                        
-Sales Rep                                                                        Name of the salesperson              
-Product Category                                                                  Category of the product        
-Product                                                                               Product name                         
-Units Sold                                                                            Quantity sold                        
-Unit Price                                                                           Price per unit                       
-Profit                                                                          Net profit from the order          
+Column Name                                     -                                      Description                          
+Order ID                                        -                          Unique identifier for each order     
+Order Date                                      -                               Date the order was placed    
+Region                                          -                                     Sales region                        
+Sales Rep                                       -                               Name of the salesperson              
+Product Category                                -                                  Category of the product        
+Product                                         -                                     Product name                         
+Units Sold                                      -                                      Quantity sold                        
+Unit Price                                      -                                    Price per unit                       
+Profit                                          -                               Net profit from the order          
 
 # Calculated Columns:
 
